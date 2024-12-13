@@ -14,6 +14,7 @@ Expected result: `[2, 6, 12, 20, 30]`.
 ## 2. **Finding Duplicate Elements**
 **Question:**  
 In the array `arr = [5, 3, 8, 5, 1, 3, 7]`, find and print all the duplicate elements.  
+
 **Hint:**  
 - Use an additional data structure like a hash table or a set to keep track of already seen elements.  
 - Iterate through the array, and check if an element appears more than once.  
